@@ -1,4 +1,4 @@
-
+"""
 OAuth2 Authentication Server
 JWT + Refresh Tokens
 Single-file FastAPI application
